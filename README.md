@@ -1,4 +1,5 @@
 # pixel-lms
 PixelLMS Aditional Layer Development
 
-Versión de Chamilo modificada con solución de errores, aplicación de mejoras y actualización de diseño visual.
+Versión de Chamilo modificada con capas de desarrollo adicional.
+Solución de errores, aplicación de mejoras y actualización de diseño visual.
